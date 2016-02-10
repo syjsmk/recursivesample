@@ -3,6 +3,7 @@ jdk:
   - oraclejdk8
 
 install:
+  - sudo pip install http://jandy.io/jandy-python.zip
 
 script:
-
+  - jandy java -jar target/recursivesample.jar
