@@ -1,3 +1,5 @@
+package com.github.syjsmk.recursivesample;
+
 /**
  * Created by syjsmk on 2016-02-10.
  */
