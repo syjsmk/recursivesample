@@ -15,7 +15,7 @@ dependencies {
 
 jar {
     manifest {
-        attributes 'Main-Class': 'Main'
+        attributes 'com.github.syjsmk.recursivesample.Main-Class': 'com.github.syjsmk.recursivesample.Main'
     }
 }
 
