@@ -6,5 +6,5 @@ install:
   - sudo pip install http://jandy.io/jandy-python.zip
 
 script:
-  - ./gradlew uploadArchives
+  - gradle uploadArchives
   - jandy java -jar target/recursivesample-1.0-SNAPSHOT.jar
