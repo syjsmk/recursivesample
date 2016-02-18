@@ -9,7 +9,7 @@ public class Main {
 
         Fibonacci fibonacci = new Fibonacci();
 
-        int n = 15;
+        int n = 13;
         for (int i = 0; i < n; i++)
             System.out.println(i + ": " + fibonacci.calculation(i));
     }
