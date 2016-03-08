@@ -7,4 +7,4 @@ install:
 
 script:
   - gradle uploadArchives
-  - jandy java -jar target/recursivesample-1.0-SNAPSHOT.jar
+  - jandy java -jar target/recursivesample-1.0-SNAPSHOT.jar 20
