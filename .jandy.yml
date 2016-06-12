@@ -2,4 +2,4 @@ language: java
 
 samples:
   - id: test
-    script: java -jar target/recursivesample-1.0-SNAPSHOT.jar
+    script: java -jar target/recursivesample-1.0-SNAPSHOT.jar 5
