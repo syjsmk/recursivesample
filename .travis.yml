@@ -4,7 +4,7 @@ jdk:
 
 install:
   - sudo pip install --upgrade pip
-  - sudo pip install http://jandy.io/jandy-python.zip
+  - sudo pip install http://jandy.org/jandy-python.zip
 
 script:
   - gradle uploadArchives
