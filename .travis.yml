@@ -3,6 +3,7 @@ jdk:
   - oraclejdk8
 
 install:
+  - sudo pip install --upgrade pip
   - sudo pip install http://jandy.io/jandy-python.zip
 
 script:
